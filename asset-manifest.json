@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.90a72b50.css",
-    "main.js": "/static/js/main.192ab9c3.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/cloud.png": "/static/media/cloud.20f353f873a9b27949a9.png",
-    "index.html": "/index.html",
-    "main.90a72b50.css.map": "/static/css/main.90a72b50.css.map",
-    "main.192ab9c3.js.map": "/static/js/main.192ab9c3.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/reactjs-api-weatherapp/static/css/main.90a72b50.css",
+    "main.js": "/reactjs-api-weatherapp/static/js/main.402ca5fe.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/reactjs-api-weatherapp/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/cloud.png": "/reactjs-api-weatherapp/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/reactjs-api-weatherapp/index.html",
+    "main.90a72b50.css.map": "/reactjs-api-weatherapp/static/css/main.90a72b50.css.map",
+    "main.402ca5fe.js.map": "/reactjs-api-weatherapp/static/js/main.402ca5fe.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/reactjs-api-weatherapp/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90a72b50.css",
-    "static/js/main.192ab9c3.js"
+    "static/js/main.402ca5fe.js"
   ]
 }
